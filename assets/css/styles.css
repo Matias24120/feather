@@ -807,8 +807,9 @@ header > p:nth-of-type(2){
 }
 
 .emptyCart img{
-max-height: 200px;
-margin-top: 50px;
+    max-height: 200px;
+    margin-top: 50px;
+    margin-right: 40px;
 }
 
 .emptyCart p{
